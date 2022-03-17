@@ -1,0 +1,1 @@
+Aplication for library. You can track books and persons to which you rent your books.

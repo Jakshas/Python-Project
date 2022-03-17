@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: Library-Aplication
+Version: 0.0.1
+Summary: Aplication for library
+Home-page: 
+Author: Jakub Szajner
+Author-email: 315700@uwr.edu.pl
+License: UNKNOWN
+Project-URL: Bug Tracker, 
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+Aplication for library. You can track books and persons to which you rent your books.
+
